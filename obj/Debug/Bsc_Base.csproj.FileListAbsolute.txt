@@ -1,0 +1,11 @@
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\Bsc_Base.dll.config
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\Bsc_Base.dll
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\Bsc_Base.pdb
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\EntityFramework.dll
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\EntityFramework.SqlServer.dll
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\EntityFramework.xml
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\EntityFramework.SqlServer.xml
+E:\TFS\Selenium\Bcs_App\Bsc_Base\bin\Debug\ru\EntityFramework.resources.dll
+E:\TFS\Selenium\Bcs_App\Bsc_Base\obj\Debug\Bsc_Base.csprojResolveAssemblyReference.cache
+E:\TFS\Selenium\Bcs_App\Bsc_Base\obj\Debug\Bsc_Base.dll
+E:\TFS\Selenium\Bcs_App\Bsc_Base\obj\Debug\Bsc_Base.pdb
